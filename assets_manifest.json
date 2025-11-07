@@ -1,11 +1,10 @@
 {
   "sprites": [
-    { "key": "adam_idle", "path": "assets/sprites/adam_idle.png" },
-    { "key": "adam_walk", "path": "assets/sprites/adam_walk_strip.png" }
+    { "key": "eve", "path": "assets/sprites/eve_static_01.png" }
   ],
   "tiles": [
     { "key": "eden_grass", "path": "assets/tiles/eden_grass_01.png" },
-    { "key": "eden_tree", "path": "assets/tiles/tree_01.png" }
+    { "key": "eden_tree", "path": "assets/tiles/eden_tree_01.png" }
   ],
   "audio": [
     { "key": "theme", "path": "assets/audio/eden_theme.mp3" }
